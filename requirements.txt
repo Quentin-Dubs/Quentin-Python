@@ -3,3 +3,6 @@ flask
 redis
 sqlalchemy
 psycopg2-binary
+fastapi
+requests
+pytest
